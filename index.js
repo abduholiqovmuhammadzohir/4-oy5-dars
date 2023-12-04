@@ -83,10 +83,17 @@
 
 // 7 - misol
 
-let a = +prompt("son kiriting")
+// let a = +prompt("son kiriting")
 
 
 
 // 8 - misol
+
+// let a = +prompt("son kiriting")
+
+
 // 9 - misol
+
+// let a = +prompt("son kiriting")
+
 
